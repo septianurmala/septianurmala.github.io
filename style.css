@@ -101,7 +101,7 @@ body {
   margin:25px auto;
 }
 header, #content, footer { 
-  border-top: 2px solid #FFFFFF;
+  border-top: 0.5px solid #FFFFFF;
   background: #5B6B5B; 
   padding:25px;
   color:#FFFFFF; 
