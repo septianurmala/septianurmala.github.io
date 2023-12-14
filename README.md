@@ -14,6 +14,6 @@ I added alt text on every image on my website too as a way to increase accesibil
 <br></br>
 Anyway, a few code prompts were provided by ChatGPT because I had little experience in coding.
 <br></br>
-You're free to fork this repository too. I always make sure that my creations are open access. :)
+You're free to fork this repository too. I always make sure that anything I created is open access. :)
 <br></br>
 Happy coding!
